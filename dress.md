@@ -9,7 +9,7 @@
 
 
 ## SIZE
-- [X] Small (38 and 39)
+- [X] Small (38 and 39) 39
 - [X] Medium
 - [x] Large
 - [ ] XLarge
@@ -17,6 +17,7 @@
 - [ ] XXXLarge
 
 ## Trouser
-- [X] Hip size
-- [x] Rice(Low,Mid,High) 2" Below Naval, Naval, 2" above Naval
-- [ ] Oustsane , Insane, Waist, Hip, Cuff
+- [X] Hip size 34
+- [x] Rice(Low,Mid,High) 2" Below Naval, Naval, 2" above Naval MID
+- [ ] Oustsane , Insane, Waist, Hip, Cuff 
+- [ ] Relaxed, Chino, 
