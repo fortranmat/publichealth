@@ -1,4 +1,4 @@
-item|Price/Kg on 6-11-22| qty bought
+item|Price/Kg on 6-11-22| qty bought(70rs)
 |----|-----|----|
 Brinjal| 20 |500g
 Greeen Mirchibig|40 |250g
